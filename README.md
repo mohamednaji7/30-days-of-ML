@@ -39,10 +39,24 @@
 - code  
 -- import libraries  
 -- load the data  
--- prepare the data(Transformation): 1HotEncoding & Ordinal Encoding  
+-- prepare the data(Transformation): MEstimateEncoder
+-- prepare the data(feature Engineering): Clustering the data by KMeans
 -- fiting  using best paramters from tunning  
 -- predict  
 -- submitting it  
 - Private Score: 0.71655 
 - Public Score: 0.71800
 - file name: XGBResgressor + Tunning.ipynb
+
+## XGBRegressor + Tunning Model + Folding
+- code  
+-- import libraries  
+-- load the data  
+-- prepare the data(Transformation): 1HotEncoding & Ordinal Encoding  
+-- fiting  using best paramters from tunning  
+-- floding the data into 7 folds
+-- weighted sum folds: weight every fold with the rmse's score
+-- submitting it  
+- Private Score: 0.71611
+- Public Score: 0.71769
+- file name: xgboost v3.ipynb
