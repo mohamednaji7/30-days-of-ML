@@ -11,7 +11,8 @@
 -- fiting  
 -- predict  
 -- submitting it  
-- Private Score: 0.73279 | Public Score: 0.73389
+- Private Score: 0.73279 
+- Public Score: 0.73389
 - file name: Random Forest Model.ipynb 
 
 ## XGBRegressor Model 
@@ -22,7 +23,8 @@
 -- fiting  
 -- predict  
 -- submitting it  
-- Private Score: 0.71978 | Public Score: 0.72132
+- Private Score: 0.71978 
+- Public Score: 0.72132
 - file name: xgb-model.ipynb
 ## Tunning for XGBRegressor Model
 - code  
@@ -33,3 +35,14 @@
 -- optuna studying  
 - file name: tunning for xgb.ipynb
 
+## XGBRegressor + Tunning Model 
+- code  
+-- import libraries  
+-- load the data  
+-- prepare the data(Transformation): 1HotEncoding & Ordinal Encoding
+-- fiting  using best paramters from tunning 
+-- predict  
+-- submitting it  
+- Private Score: 0.71655 
+- Public Score: 0.71800
+- file name: XGBResgressor + Tunning.ipynb
