@@ -27,7 +27,7 @@
 ## Tunning for XGBRegressor Model
 - code  
 -- import libraries  
--- load the data 
+-- load the data  
 -- prepare the data(Transformation): 1HotEncoding & Ordinal Encoding  
 -- tunning fucntion 
 -- optuna studying  
