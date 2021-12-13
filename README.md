@@ -31,5 +31,5 @@
 -- prepare the data(Transformation): 1HotEncoding & Ordinal Encoding  
 -- tunning fucntion 
 -- optuna studying  
-- file name: xgb-model.ipynb
+- file name: tunning for xgb.ipynb
 
