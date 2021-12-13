@@ -3,10 +3,10 @@
 # Random Forest Regressor Model 
 - it's first model we tried 
 - we did some feature optimization
-- code
--- import libraries 
--- load the data 
--- prepare the data(Transformation)
--- getting best n_estimators feature's value
--- fiting 
--- predict
+- code  
+-- import libraries  
+-- load the data  
+-- prepare the data(Transformation)  
+-- getting best n_estimators feature's value  
+-- fiting  
+-- predict  
