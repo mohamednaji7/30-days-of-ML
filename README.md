@@ -31,7 +31,7 @@
 -- import libraries  
 -- load the data  
 -- prepare the data(Transformation): 1HotEncoding & Ordinal Encoding  
--- tunning fucntion 
+-- tunning fucntion  
 -- optuna studying  
 - file name: tunning for xgb.ipynb
 
@@ -39,8 +39,8 @@
 - code  
 -- import libraries  
 -- load the data  
--- prepare the data(Transformation): 1HotEncoding & Ordinal Encoding
--- fiting  using best paramters from tunning 
+-- prepare the data(Transformation): 1HotEncoding & Ordinal Encoding  
+-- fiting  using best paramters from tunning  
 -- predict  
 -- submitting it  
 - Private Score: 0.71655 
