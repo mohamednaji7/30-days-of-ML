@@ -1,5 +1,7 @@
 # 30-days-of-ML
-30 days of ML is a Kaggle in class competition which we built regression models to predict and minimize root mean square error       
+30 days of ML is a Kaggle in class competition which we built regression models to predict and minimize root mean square error    
+https://www.kaggle.com/c/30-days-of-ml  
+team: El-Noussour  
 ## Random Forest Regressor Model 
 - it's first model we tried 
 - we did some feature optimization
